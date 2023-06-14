@@ -14,6 +14,10 @@
             "name": "Français (FR)",
             "file": "fr_FR.json"
         },
+        "tr_TR": {
+            "name": "Turkish (TR)",
+            "file": "tr_TR.json"
+        },
         "en_LOL": {
             "name": "Lolcat",
             "file": "en_LOL.json"
